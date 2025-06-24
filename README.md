@@ -35,4 +35,4 @@ This was a a great oppurtunity to practice using grid and grid areas.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/bento-grid---css-grid-SH_3kpK0fF). It definitely helps to find new ways to code and find easier solutions!
